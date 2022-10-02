@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/zzz/code/c++/test2/build",
+  "command": "S:\\software\\mingw\\mingw64-8.1.0\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\src\\click.cpp.obj -c D:\\zzz\\code\\c++\\test2\\src\\click.cpp",
+  "file": "D:/zzz/code/c++/test2/src/click.cpp"
+},
+{
+  "directory": "D:/zzz/code/c++/test2/build",
+  "command": "S:\\software\\mingw\\mingw64-8.1.0\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\src\\function.cpp.obj -c D:\\zzz\\code\\c++\\test2\\src\\function.cpp",
+  "file": "D:/zzz/code/c++/test2/src/function.cpp"
+},
+{
+  "directory": "D:/zzz/code/c++/test2/build",
+  "command": "S:\\software\\mingw\\mingw64-8.1.0\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\src\\global.cpp.obj -c D:\\zzz\\code\\c++\\test2\\src\\global.cpp",
+  "file": "D:/zzz/code/c++/test2/src/global.cpp"
+},
+{
+  "directory": "D:/zzz/code/c++/test2/build",
+  "command": "S:\\software\\mingw\\mingw64-8.1.0\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\src\\myapp.cpp.obj -c D:\\zzz\\code\\c++\\test2\\src\\myapp.cpp",
+  "file": "D:/zzz/code/c++/test2/src/myapp.cpp"
+},
+{
+  "directory": "D:/zzz/code/c++/test2/build",
+  "command": "S:\\software\\mingw\\mingw64-8.1.0\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\src\\myframe.cpp.obj -c D:\\zzz\\code\\c++\\test2\\src\\myframe.cpp",
+  "file": "D:/zzz/code/c++/test2/src/myframe.cpp"
+},
+{
+  "directory": "D:/zzz/code/c++/test2/build",
+  "command": "S:\\software\\mingw\\mingw64-8.1.0\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\src\\preparation.cpp.obj -c D:\\zzz\\code\\c++\\test2\\src\\preparation.cpp",
+  "file": "D:/zzz/code/c++/test2/src/preparation.cpp"
+}
+]
